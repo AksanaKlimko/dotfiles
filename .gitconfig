@@ -1,8 +1,8 @@
 [user]
-	name = Dmitry Baginsky
-	email = dmitri.baginski@gmail.com
+	name = Aksana Klimko
+	email = ksenya.klimko@gmail.com
 [github]
-	user = betraying
+	user = aksanaklimko
 [core]
 	excludesfile = ~/.gitignore
 	attributesfile = ~/.gitattributes
