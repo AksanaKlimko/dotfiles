@@ -25,8 +25,3 @@ cask "sublime-text"
 cask "transmission"
 cask "windscribe"
 cask "ksdiff"
-mas "AdGuard for Safari", id: 1440147259
-mas "Dark Mode for Safari", id: 1397180934
-mas "DevCleaner", id: 1388020431
-mas "Magnet", id: 441258766
-mas "Telegram", id: 747648890
